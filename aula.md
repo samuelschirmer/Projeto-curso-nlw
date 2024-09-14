@@ -7,7 +7,7 @@ como um lego, você irá utulizar peças para criar algoritmos, ou seja, par are
 
 ## Peças de uma linguagem
 
-- Comentário
+- [x]Comentário
 - Declaração de variáveis
 - Operadores (atribuição, concatenação, matemáticos, lógicos )
 - Tipos de dados (string, nunber, boolean)
@@ -20,3 +20,18 @@ como um lego, você irá utulizar peças para criar algoritmos, ou seja, par are
 Coletar os dados
 Processar os dados (manipular, alterar ...)
 Apresentar os dados
+
+## escopo e variáveis
+
+Variáveis locais e globais
+Constantes
+
+## tipos de dados:
+
+Strings (textos): "" '' ``
+Number: 2 1.4
+Function
+
+# operadores
+
+Operadores de atribuição de valor
